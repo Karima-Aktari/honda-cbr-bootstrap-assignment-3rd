@@ -45,3 +45,9 @@ header{
 .login-bg-color{
     background: skyblue;
 }
+
+@media only screen and (max-width:576px) {
+    body{
+        width:97%;
+    }
+}
