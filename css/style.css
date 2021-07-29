@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:auto;
+}
+header{
+    background:#264653;
+    color: white;
+}
+.button-cbr{
+    color: white;
+    background: #E76F51;
+}
+
+/* Main sections css */
+
+/* Features css */
+.colorful-text{
+    color: #E76F51;
+}
+.gray-scale{
+    /* mix-blend-mode: luminosity; */
+    filter: grayscale(100%);
+}
+
+/* Happy Clients css */
+.star-color{
+    color:#E77C40;
+}
+.client-pColor{
+    color: #23A6F0;
+}
+.client-pColor2{
+    color: #252B42;
+}
+
+/* Carousel */
+.carousel-color{
+    background:#70a6bb;
+}
+.collection-color{
+    color: #264653;
+}
+
+/* Login form */
+.login-bg-color{
+    background: skyblue;
+}
