@@ -18,8 +18,8 @@ header{
     color: #E76F51;
 }
 .gray-scale{
-    /* mix-blend-mode: luminosity; */
-    filter: grayscale(100%);
+    mix-blend-mode: luminosity;
+    /* filter: grayscale(100%); */
 }
 
 /* Happy Clients css */
